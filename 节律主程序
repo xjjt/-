@@ -92,7 +92,7 @@ int main()
 		    k=k;
 		   else                                                    
 		   k=k-1;
-		    break;
+		    break;                                              /*加油*/
 	
 	}
 		
